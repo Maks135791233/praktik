@@ -1,0 +1,1 @@
+files_dir = "C:\Users\Main_admin\gitProjs\ApacheLogsParser\logs.txt"
